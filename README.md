@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">i'm Akshaya <br>a passionate cs student diving deep into emereging technology trends.</p>
+<p align="left">i'm Akshaya <br>a passionate cs student diving deep into emerging technology trends.</p>
 
 ###
 
@@ -27,9 +27,12 @@
 </div>
 
 ###
-
+<p align="left">how to contact me</p>
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  [1]: www.linkedin.com/in/
+akshaya-sree-aa6539305
+         "linkedin"
 </div>
 
 ###
