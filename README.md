@@ -47,11 +47,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/akshayas02/count.svg?"  />
 </div>
-
-###
-
-<div align="center">
-  <img height="200" src=" https://media.giphy.com/media/11xOhngUw9vipi/giphy.gif"  />
-</div>
-
-###
