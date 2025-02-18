@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img height="200" src=" https://media.giphy.com/media/11xOhngUw9vipi/giphy.gif?cid=ecf05e47eqp2lyvpef1k1z9o7jwxgbiiwlinj3qrvaubavw7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="200" src=" https://media.giphy.com/media/11xOhngUw9vipi/giphy.gif"  />
 </div>
 
 ###
