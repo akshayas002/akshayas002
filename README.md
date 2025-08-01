@@ -45,7 +45,7 @@
   </a>
 </div>
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaya&show_icons=true&theme=default" alt="akshaya github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayas02&show_icons=true&theme=default" alt="akshaya github stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaya&theme=default" alt="akshaya github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayas02&theme=default" alt="akshaya github streak" />
 </p>
