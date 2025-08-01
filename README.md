@@ -44,11 +44,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
 </div>
-
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/akshayas02/count.svg?" />
-</div>
-
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaya&show_icons=true&theme=default" alt="akshaya github stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaya&theme=default" alt="akshaya github streak" />
+</p>
 ###
