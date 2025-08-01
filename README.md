@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">i'm Akshaya <br>a passionate cs student diving deep into emereging technology trends.</p>
+<p align="left">i'm Akshaya <br>a passionate cs student diving deep into emerging technology trends.</p>
 
 ###
 
