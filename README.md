@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I’m Akshaya, a Computer Science undergrad with a deep curiosity for emerging technologies and their real-world impact. Currently diving into the fundamentals of Machine Learning and Data Science, I love transforming ideas into data-driven projects that solve meaningful problems. I’m always exploring new tools, concepts, and trends — from AI applications to innovative tech solutions — while building my skills for the future.</p>
+<p align="left">I’m Akshaya, a Computer Science undergrad with a deep curiosity for emerging technologies and their real-world impact. Currently diving into the fundamentals of Machine Learning and Data Science, I love transforming ideas into data-driven projects that solve meaningful problems. I’m always exploring new tools, concepts, and trends. From AI applications to innovative tech solutions and also while building my skills for the future.</p>
 
 ###
 
